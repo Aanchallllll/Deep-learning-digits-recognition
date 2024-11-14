@@ -1,4 +1,3 @@
-[README (7).md](https://github.com/user-attachments/files/17754116/README.7.md)
 # Neural-Networks-from-scratch
 ## Table of Contents
 - [Introduction](#introduction)
